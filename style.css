@@ -111,14 +111,14 @@ section{
 }
 
 .footer-name{
-    margin-top: 20px;
-    padding-top: 60px;
+    margin-top: 18px;
+    padding-top: 20px;
     color: black;
     font-weight: 20%;
 }
 .footer-bruce{
- margin-top: 30px;
- padding-top: 20px;
+ margin-top: 27px;
+ padding-top: 18px;
 }
 .bruce-name{
     font-size: 20px;
@@ -133,7 +133,7 @@ section{
       width: 350px;
       border-left: 30px;
       padding-left: 450px;
-      padding-top: 20px;
+      padding-top: 18px;
   }
 .footer-color{
     text-decoration: none;
@@ -142,5 +142,11 @@ section{
     padding: 5%;
     border-radius: 10px; 
     font-weight: bold;
-    margin: 70px 250px;
+    margin: 50px 290px;
+}
+footer{
+    text-align: center;
+    font-size: 10px;
+    padding-top: 30px;
+    margin-top: 10px;
 }
